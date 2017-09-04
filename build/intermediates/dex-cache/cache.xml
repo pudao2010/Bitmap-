@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\DELL\.android\build-cache\a5d2145d14e1267448532b409ba773486296e3c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4e6470fe5081bd76bb727ea9d0d9de373ac5940b">
+        <dex dex="E:\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes_66d54ffd9e7d4d7616d09f121a93709fd7e14ef1.jar" />
+    </item>
+
+</items>
